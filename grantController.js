@@ -5,7 +5,6 @@ FamilyMember = require('./familyMemberModel');
 
 // Handle view grant info
 exports.view = async function (req, res, next) {
-    console.log(req.query.scheme);
     var currentTime = new Date();
     var scheme = req.query.scheme;
     const income = Number(req.query.income);
@@ -15,7 +14,6 @@ exports.view = async function (req, res, next) {
         case "StudentEncouragementBonus":
           // code block
           var start = new Date(currentTime.getTime() - age * 31556952000);
-          console.log(start + currentTime);
           Household.aggregate([
             {
                 "$match": {"income": {"$lt" : income}}
@@ -59,7 +57,6 @@ exports.view = async function (req, res, next) {
             var addressArr = [];
             let marriedMembers = await FamilyMember.find({dob: {$gte: start, $lt: currentTime}});
             for(var i = 0; i < marriedMembers.length;i++){
-                console.log(marriedMembers[i].address);
                 if(addressArr.indexOf(marriedMembers[i].address) === -1)
                     addressArr.push(marriedMembers[i].address);
             }

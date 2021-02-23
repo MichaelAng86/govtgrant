@@ -82,7 +82,6 @@ exports.view = function (req, res) {
 
 // Handle delete household
 exports.delete = async function (req, res) {
-    console.log(req.query.address);
     await FamilyMember.remove({
         address: req.query.address
     }, function (err, grant) {
