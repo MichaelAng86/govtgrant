@@ -1,0 +1,29 @@
+{
+  "name": "govtgrant",
+  "version": "1.0.0",
+  "description": "Create a RESTful API that decide on groups of people who are eligible for upcoming government grants",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelAng86/govtgrantnodejs.git"
+  },
+  "keywords": [
+    "api",
+    "json"
+  ],
+  "author": "Michael Ang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelAng86/govtgrantnodejs/issues"
+  },
+  "homepage": "https://github.com/MichaelAng86/govtgrantnodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.17",
+    "uuid": "^8.3.2"
+  }
+}

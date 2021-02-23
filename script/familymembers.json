@@ -1,0 +1,93 @@
+{
+    "_id" : "S7865171G",
+    "name" : "Peter Chan Zhi Wen",
+    "gender" : "Male",
+    "maritalStatus" : "Married",
+    "spouse" : "Mary Chan Wan",
+    "occupationType" : "Employed",
+    "annualIncome" : 200000.0,
+    "dob" : ISODate("1978-12-12T00:00:00.000Z"),
+    "address" : "33 Beechwood Grove Singapore 738102"
+}
+{
+    "_id" : "S8155641E",
+    "name" : "Mary Chan Wan",
+    "gender" : "Female",
+    "maritalStatus" : "Married",
+    "spouse" : "Peter Chan Zhi Wen",
+    "occupationType" : "Employed",
+    "annualIncome" : 300000.0,
+    "dob" : ISODate("1989-12-12T00:00:00.000Z"),
+    "address" : "33 Beechwood Grove Singapore 738102"
+}
+{
+    "_id" : "T0927434G",
+    "name" : "Cindy Chan Li Ping",
+    "gender" : "Female",
+    "occupationType" : "Student",
+    "annualIncome" : 0.0,
+    "dob" : ISODate("2009-01-12T00:00:00.000Z"),
+    "address" : "33 Beechwood Grove Singapore 738102"
+}
+{
+    "_id" : "S9530761B",
+    "name" : "Rooney Tan Yip Peng",
+    "gender" : "Male",
+    "maritalStatus" : "Single",
+    "occupationType" : "Unemployed",
+    "annualIncome" : 0.0,
+    "dob" : ISODate("1995-01-12T00:00:00.000Z"),
+    "address" : "238 Orchard Blvd #10-15, Singapore 248652"
+}
+{
+    "_id" : "S0024096Q",
+    "name" : "Tan Ah Beng",
+    "gender" : "Male",
+    "maritalStatus" : "Single",
+    "occupationType" : "Unemployed",
+    "annualIncome" : 0.0,
+    "dob" : ISODate("1930-01-05T00:00:00.000Z"),
+    "address" : "Block 164 Bukit Merah Central #03-3645 Singapore 150164"
+}
+{
+    "_id" : "S0171491W",
+    "name" : "Shufen  Lu",
+    "gender" : "Female",
+    "maritalStatus" : "Single",
+    "occupationType" : "Unemployed",
+    "annualIncome" : 0.0,
+    "dob" : ISODate("1930-01-05T00:00:00.000Z"),
+    "address" : "Block 164 Bukit Merah Central #03-3645 Singapore 150164"
+}
+{
+    "_id" : "S8299694Z",
+    "name" : "Julian Lau Weiming",
+    "gender" : "Male",
+    "maritalStatus" : "Married",
+    "spouse" : "April Tong",
+    "occupationType" : "Employed",
+    "annualIncome" : 50000.0,
+    "dob" : ISODate("1982-12-12T00:00:00.000Z"),
+    "address" : "BLK 86 WHAMPOA DRIVE, #01-929"
+}
+{
+    "_id" : "S9207794Q",
+    "name" : "April Tong",
+    "gender" : "Female",
+    "maritalStatus" : "Married",
+    "spouse" : "Julian Lau Weiming",
+    "occupationType" : "Employed",
+    "annualIncome" : 30000.0,
+    "dob" : ISODate("1992-12-12T00:00:00.000Z"),
+    "address" : "BLK 86 WHAMPOA DRIVE, #01-929"
+}
+{
+    "_id" : "T1858228C",
+    "name" : "Louis Pang",
+    "gender" : "Male",
+    "maritalStatus" : "Single",
+    "occupationType" : "Others",
+    "annualIncome" : 0.0,
+    "dob" : ISODate("2018-01-12T00:00:00.000Z"),
+    "address" : "BLK 86 WHAMPOA DRIVE, #01-929"
+}

@@ -1,0 +1,35 @@
+{
+    "_id" : "f6b83100-e676-44da-a246-089143377304",
+    "address" : "33 Beechwood Grove Singapore 738102",
+    "income" : 520000.0,
+    "housingType" : "Landed"
+}
+{
+    "_id" : "4795cbb1-942b-4181-b310-d5501e68b0a8",
+    "address" : "238 Orchard Blvd #10-15, Singapore 248652",
+    "housingType" : "Condominium"
+}
+{
+    "_id" : "be1e06ee-4355-4c00-94fc-bd86f4b4a081",
+    "address" : "Block 164 Bukit Merah Central #03-3645 Singapore 150164",
+    "income" : 0.0,
+    "housingType" : "HDB"
+}
+{
+    "_id" : "1f2f44f2-05b8-434f-b737-dbb86d12999a",
+    "address" : "BLK 86 WHAMPOA DRIVE, #01-929",
+    "income" : 80000.0,
+    "housingType" : "HDB"
+}
+{
+    "_id" : "de9c3811-2fa9-496e-9197-aa59739ff8af",
+    "address" : "abc",
+    "income" : 200000.0,
+    "housingType" : "HDB"
+}
+{
+    "_id" : "7d823bc8-bd82-4d75-b9cb-de8ef43af7b5",
+    "address" : "abc",
+    "income" : 0.0,
+    "housingType" : "HDB"
+}
