@@ -81,11 +81,11 @@ You may download the database viewer below to view the data added <br/>
 https://studio3t.com/download/ <br/>
 **Mongodb Startup script**<br/>
 In the github repository script folder. <br/>
-https://github.com/MichaelAng86/govtgrantnodejs/tree/master/script <br/>
+https://github.com/MichaelAng86/govtgrant/tree/master/script <br/>
 **Mongodb Create database - govtgrant**<br/>
 Note : upon started mongodb, you need to create a database first by following below steps in the link
 https://www.tutorialspoint.com/mongodb/mongodb_create_database.htm <br/>
 **Populating database - govtgrant**<br/>
 Mongodb collection (in SQL is called table) can be created by running the code. Below script will help you to populate both collection and data for the application to query. <br/>
 In the github repository script folder.  <br/>
-https://github.com/MichaelAng86/govtgrantnodejs/tree/master/script <br/>
+https://github.com/MichaelAng86/govtgrant/tree/master/script <br/>
